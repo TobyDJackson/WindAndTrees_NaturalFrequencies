@@ -1,3 +1,3 @@
-# WindAndTrees_Resonance
+# WindAndTrees_NaturalFrequencies
 
-This repository is for sharing code / data in connection with the project on the resonant frequency of trees.
+This repository is for sharing code / data in connection with the project on the natural frequencies of trees.
