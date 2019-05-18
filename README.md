@@ -4,7 +4,7 @@ This repository contains data and code associated with:
 
 Jackson et al. 2019, An architectural understanding of natural sway frequencies in trees. Royal Society Interface. 
 
-![alt text](https://github.com/TobyDJackson/TreeQSM_Architecture/blob/master/Architecture%20larger%20text.png)
+![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/Fig%201.jpg)
 
 Data in the repo:
 1. Data from pull and release experiments for trees in Wytham Woods
