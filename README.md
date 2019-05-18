@@ -4,7 +4,7 @@ This repository contains data and code associated with:
 
 Jackson et al. 2019, An architectural understanding of natural sway frequencies in trees. Royal Society Interface. 
 
-Data in the repo:
+Data in this repo:
 1. Data from pull and release experiments for trees in Wytham Woods
 2. Summary data on the fundamental frequencies of trees derived from field data
 3. Summary data on the fundamental frequencies of trees and dominance of the fundamental mode derived from finite element simulations
