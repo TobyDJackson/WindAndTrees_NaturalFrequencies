@@ -15,4 +15,4 @@ Scripts in this repo:
 2. Architecture_PCA - Plot covariance matrix and principal component analysis for tree architecture indices
 3. f0_LMs and D0_LMs calculate linear models used in the paper (Table 1)
 
-![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/Fig%201.jpg)
+![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/fig1.png)
