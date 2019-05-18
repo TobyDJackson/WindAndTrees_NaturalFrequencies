@@ -4,8 +4,6 @@ This repository contains data and code associated with:
 
 Jackson et al. 2019, An architectural understanding of natural sway frequencies in trees. Royal Society Interface. 
 
-![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/Fig%201.jpg)
-
 Data in the repo:
 1. Data from pull and release experiments for trees in Wytham Woods
 2. Summary data on the fundamental frequencies of trees derived from field data
@@ -17,3 +15,4 @@ Scripts in this repo:
 2. Architecture_PCA - Plot covariance matrix and principal component analysis for tree architecture indices
 3. f0_LMs and D0_LMs calculate linear models used in the paper (Table 1)
 
+![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/Fig%201.jpg)
