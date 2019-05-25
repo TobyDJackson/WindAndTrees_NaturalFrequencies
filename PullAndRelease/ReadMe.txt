@@ -3,4 +3,4 @@ It is recorded at 4Hz and the labelling is [Tree #    Pull #     Winter/Summer]
 
 The .m file analyzes and plots this data.
 
-![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/figures/fig1.png)
+![alt text](https://github.com/TobyDJackson/WindAndTrees_NaturalFrequencies/blob/master/PullAndRelease/P%26R%20Summer%20Winter.png)
